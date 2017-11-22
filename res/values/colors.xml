@@ -79,4 +79,8 @@
     <color name="lowlight">#650101</color>
     <color name="grey">#e7e7e7</color>
     <color name="disabled_knob">#575757</color>
+
+    <color name="icon_background_gallery">#00000000</color>
+    <color name="icon_background_camera">#ff4285f4</color>
+
 </resources>
